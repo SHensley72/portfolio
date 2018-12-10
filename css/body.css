@@ -1,4 +1,6 @@
 body {
-    background: var(--green);
+    background: var(--blue-green);
+    font-family: var(--mainFont);
     
+
 }
